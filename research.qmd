@@ -1,0 +1,9 @@
+---
+title: "Research"
+listing:
+  contents: research
+  type: grid
+page-layout: full
+title-block-banner: true
+comments: false
+---

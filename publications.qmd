@@ -1,0 +1,10 @@
+---
+title: "Publications"
+listing:
+  contents: publications
+  sort: "title desc"
+  type: grid
+page-layout: full
+title-block-banner: true
+comments: false
+---

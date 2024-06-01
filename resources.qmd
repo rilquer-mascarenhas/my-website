@@ -1,0 +1,9 @@
+---
+title: "Resources"
+listing:
+  contents: resources
+  type: grid
+page-layout: full
+title-block-banner: true
+comments: false
+---

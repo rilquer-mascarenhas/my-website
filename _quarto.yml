@@ -1,19 +1,32 @@
 project:
   type: website
+  output-dir: site
 
 website:
-  title: "quarto-website"
+  title: "Rilquer Mascarenhas"
+  twitter-card: 
+    creator: "@Rilquer"
+  cookie-consent: false 
+  search: true
   navbar:
+    
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+      - text: "Bio"
+      file: about.qmd
+      - text: "Research"
+      file: research.qmd
+      - text: "Publications"
+      file: publications.qmd
+      - text: "Resources"
+      file: resources.qmd
+      - text: "Mentoring"
+      file: mentoring.qmd
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: minty
+      dark: cyborg
     css: styles.css
     toc: true
 
 editor: visual
-

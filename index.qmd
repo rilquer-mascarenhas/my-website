@@ -1,11 +1,33 @@
 ---
-title: "quarto-website"
+title: ""
+about:
+  template: trestles
+  image: files/avatar.jpg
+  links:
+    - text: CV
+      href: https://github.com/connor-french/cv/blob/master/cv_modern/cv_modern.pdf
+    - icon: github
+      text: Github
+      href: https://github.com/connor-french
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/frog_phylo
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/connormfrench/
+    - icon: google-scholar
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=LAiEcKoAAAAJ&hl=en
+    - icon: orcid
+      text: ORCID
+      href: https://orcid.org/0000-0002-5255-3884
+comments: false
 ---
 
-This is a Quarto website.
+## Hello
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My name is Rilquer Mascarenhas and I am a PhD Student in the [Carnaval Lab](https://www.carnavallab.org) of The City College of New York.
 
-```{r}
-1 + 1
-```
+As a evolutionary biologist, my interests are...
+
+My current PhD research focuses on understanding how the ecological characteristics of different species interact with the environment around them to shape the demographic dynamics revealed in their DNA sequences. For that, I am integrating several analytical tools to estimate and predict the importance of ecology in population response to climate change.
