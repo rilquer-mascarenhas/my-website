@@ -1,12 +1,10 @@
 ---
-title: "Research"
-about:
-  template: broadside
+title: "CV"
 page-layout: full
 format:
   html:
     page-layout: full
-title-block-banner: files/background6.jpg
+title-block-banner: files/background.jpg
 title-block-banner-color: black
 comments: false
 ---

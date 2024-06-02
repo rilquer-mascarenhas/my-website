@@ -3,13 +3,14 @@ project:
   output-dir: _site
 
 website:
-  title: "Rilquer Mascarenhas"
+  title: "Home"
+  favicon: files/logo.png
   twitter-card: 
     creator: "@Rilquer"
   cookie-consent: false 
   search: true
   navbar:
-    left:
+    right:
       - text: "About"
         file: about.qmd
       - text: "Research"
@@ -20,11 +21,12 @@ website:
         file: resources.qmd
       - text: "Mentoring"
         file: mentoring.qmd
+      - text: "CV"
+        file: cv.qmd
 format:
   html:
     theme: 
-      light: minty
-      dark: cyborg
+      light: spacelab
     css: styles.css
     toc: true
 

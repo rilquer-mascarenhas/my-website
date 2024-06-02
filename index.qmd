@@ -1,9 +1,19 @@
 ---
-title: ""
+title: "Rilquer Mascarenhas"
+title-block-banner: files/background.jpg
+title-block-banner-color: black
+subtitle: PhD Candidate, The City University of New York
+format:
+  html:
+    page-layout: full
 about:
   template: trestles
   image: files/profile.jpg
+  image-shape: round
   links:
+    - icon: envelope
+      text: Email
+      href: mailto:rilquermascarenhas@gmail.com
     - icon: github
       text: Github
       href: https://github.com/Rilquer
@@ -13,13 +23,11 @@ about:
     - icon: google-scholar
       text: Google Scholar
       href: https://scholar.google.com/citations?user=_c6zjjoAAAAJ&hl=en&oi=ao
-    - icon: orcid
-      text: ORCID
-      href: https://orcid.org/0000-0002-9905-4281
 comments: false
+toc: false
 ---
 
-Hello
+## Hello
 
 My name is Rilquer Mascarenhas and I am a PhD Student in the [Carnaval Lab](https://www.carnavallab.org) of The City College of New York.
 

@@ -1,13 +1,12 @@
 ---
 title: "Resources"
+about:
+  template: broadside
+page-layout: full
+format:
+  html:
+    page-layout: full
+title-block-banner: files/background.jpg
+title-block-banner-color: black
+comments: false
 ---
-
-<!-- --- -->
-<!-- title: "Resources" -->
-<!-- listing: -->
-<!--   contents: resources -->
-<!--   type: grid -->
-<!-- page-layout: full -->
-<!-- title-block-banner: true -->
-<!-- comments: false -->
-<!-- --- -->
