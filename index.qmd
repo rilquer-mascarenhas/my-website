@@ -19,7 +19,7 @@ about:
 comments: false
 ---
 
-## Hello
+Hello
 
 My name is Rilquer Mascarenhas and I am a PhD Student in the [Carnaval Lab](https://www.carnavallab.org) of The City College of New York.
 
