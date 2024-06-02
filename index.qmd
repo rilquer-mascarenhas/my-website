@@ -2,25 +2,20 @@
 title: ""
 about:
   template: trestles
-  image: files/avatar.jpg
+  image: files/profile.jpg
   links:
-    - text: CV
-      href: https://github.com/connor-french/cv/blob/master/cv_modern/cv_modern.pdf
     - icon: github
       text: Github
-      href: https://github.com/connor-french
+      href: https://github.com/Rilquer
     - icon: twitter
       text: Twitter
-      href: https://twitter.com/frog_phylo
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/connormfrench/
+      href: https://twitter.com/Rilquer
     - icon: google-scholar
       text: Google Scholar
-      href: https://scholar.google.com/citations?user=LAiEcKoAAAAJ&hl=en
+      href: https://scholar.google.com/citations?user=_c6zjjoAAAAJ&hl=en&oi=ao
     - icon: orcid
       text: ORCID
-      href: https://orcid.org/0000-0002-5255-3884
+      href: https://orcid.org/0000-0002-9905-4281
 comments: false
 ---
 
@@ -28,6 +23,6 @@ comments: false
 
 My name is Rilquer Mascarenhas and I am a PhD Student in the [Carnaval Lab](https://www.carnavallab.org) of The City College of New York.
 
-As a evolutionary biologist, my interests are...
+As a evolutionary biologist, I am interested in understanding the processes that drive the spatial distribution of biodiversity across different scales. I am specially interested in integrating different data sources and methodological approaches to investigate intraspecific genetic diversity.
 
-My current PhD research focuses on understanding how the ecological characteristics of different species interact with the environment around them to shape the demographic dynamics revealed in their DNA sequences. For that, I am integrating several analytical tools to estimate and predict the importance of ecology in population response to climate change.
+My current PhD research focuses on understanding how the ecological characteristics of species influence how they interact with their surrounding environment and shape the demographic history revealed in their DNA sequences. For that, I am integrating several analytical tools along with ecological datasets to evaluate the importance of ecology in population response to habitat change.

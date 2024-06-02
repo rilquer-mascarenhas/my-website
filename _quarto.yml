@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: site
+  output-dir: _site
 
 website:
   title: "Rilquer Mascarenhas"
@@ -9,18 +9,17 @@ website:
   cookie-consent: false 
   search: true
   navbar:
-    
     left:
-      - text: "Bio"
-      file: about.qmd
+      - text: "About"
+        file: about.qmd
       - text: "Research"
-      file: research.qmd
+        file: research.qmd
       - text: "Publications"
-      file: publications.qmd
+        file: publications.qmd
       - text: "Resources"
-      file: resources.qmd
+        file: resources.qmd
       - text: "Mentoring"
-      file: mentoring.qmd
+        file: mentoring.qmd
 format:
   html:
     theme: 
