@@ -1,7 +1,5 @@
 ---
 title: "Publications"
-about:
-  template: broadside
 page-layout: full
 format:
   html:
@@ -9,4 +7,24 @@ format:
 title-block-banner: files/background.jpg
 title-block-banner-color: black
 comments: false
+toc: false
 ---
+
+**Mascarenhas, R.**; Carnaval, A. [Investigating the relative role of dispersal and demographic traits in predictive phylogeography.](https://www.techrxiv.org/doi/full/10.22541/au.169695190.04424749) *Authorea Preprints*, 2023.
+
+**Mascarenhas, R.**; Meirelles, P. M.; Batalha-Filho, H. [Urbanization drives adaptive evolution in a Neotropical bird](https://doi.org/10.1093/cz/zoac066). *Current zoology*, 2022.
+
+Barreto, S. B.; Knowles, L.L.; **Mascarenhas, R.**; Affonso, P. R.; Batalha-Filho, H. [Drainage rearrangements and in situ diversification of an endemic freshwater fish genus from north‐eastern Brazilian rivers.](https://doi.org/10.1111/fwb.13879) *Freshwater biology*, 2022.
+
+Winandy, G. S.; Félix, R. P.; Sacramento, R. A.; **Mascarenhas, R.**; Batalha-Filho, H.; Japyassú, H. F.; Izar, P.; Slabbekoorn, H. [Urban Noise Restricts Song Frequency Bandwidth and Syllable Diversity in Bananaquits: Increasing Audibility at the Expense of Signal Quality.](https://doi.org/10.3389/fevo.2021.570420) *Frontiers in ecology and the environment*, 2021.
+
+Tanajura, J. L. B.; Pinho, C. S.; **Mascarenhas, R.**; Carvalho, M. L. S. [Integrative assessment of the floristic diversity of Gentianaceae in an area of campo rupestre of the Espinhaço Range in the state of Bahia, northeastern Brazil.](https://doi.org/10.11646/phytotaxa.500.2.1) *Phytotaxa*, 2021.
+
+**Mascarenhas, R.** et al. [Integrating Computational Methods to Investigate the Macroecology of Microbiomes.](https://doi.org/10.3389/fgene.2019.01344) *Frontiers in genetics*, 2019.
+
+Carvalho, M. L. S.; Jesus, I. S. D.; **Mascarenhas, R.**; Leite, K. R. B.; Schnadelbach, A. S.; Clark, L. G.; Oliveira, R. P. [Cryptic speciation in the herbaceous bamboo genus Piresia (Poaceae, Olyreae).](https://doi.org/10.1093/botlinnean/boz072) *Botanical Journal of the Linnean Society*, 2019
+
+Silveira, M. H. B.; **Mascarenhas, R.**; Cardoso, D.; Batalha-Filho, H. [Pleistocene climatic instability drove the historical distribution of forest islands in the northeastern Brazilian Atlantic Forest.](https://doi.org/10.1016/j.palaeo.2019.04.028) *Palaeogeography, palaeoclimatology, palaeoecology*, 2019.
+
+**Mascarenhas, R.**; Miyaki, C. Y; Dobrovolski, R.; Batalha-Filho, H. [Late Pleistocene climate change shapes population divergence of an Atlantic Forest passerine: a model-based phylogeographic hypothesis test.](https://doi.org/10.1007/s10336-019-01650-1) *Journal of ornithology*, 2019.
+

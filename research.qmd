@@ -1,7 +1,5 @@
 ---
 title: "Research"
-about:
-  template: broadside
 page-layout: full
 format:
   html:
@@ -10,3 +8,13 @@ title-block-banner: files/background6.jpg
 title-block-banner-color: black
 comments: false
 ---
+
+### The ecological drivers of spatial patterns of genetic diversity
+
+### Eco-evo simulations to investigate demographic response to environmental change
+
+### Collaborations
+
+#### Rules of Life Engine Project
+
+#### Neotropical Biogeography
