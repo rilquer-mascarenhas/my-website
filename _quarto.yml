@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Home"
-  favicon: files/logo.png
+  favicon: files/logo.pngx
   twitter-card: 
     creator: "@Rilquer"
   cookie-consent: false 
