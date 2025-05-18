@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: ec8da31c-8920-4778-8189-a4b56a43d3ba
+      url: 'https://delightful-hamster-dc5b5f.netlify.app'
