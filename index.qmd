@@ -1,14 +1,14 @@
 ---
 title: "Rilquer Mascarenhas"
-title-block-banner: files/background.jpg
+title-block-banner: files/cover_image.jpg
 title-block-banner-color: black
-subtitle: PhD Candidate, The City University of New York
+subtitle: PhD - The City University of New York
 format:
   html:
     page-layout: full
 about:
   template: trestles
-  image: files/profile.jpg
+  image: files/054A3491-compressed.jpeg
   image-shape: round
   links:
     - icon: envelope
@@ -16,13 +16,16 @@ about:
       href: mailto:rilquermascarenhas@gmail.com
     - icon: github
       text: Github
-      href: https://github.com/Rilquer
+      href: https://github.com/rilquer-mascarenhas
+    - icon: twitter
+      text: Bluesky
+      href: https://bsky.app/profile/rilquer.bsky.social
     - icon: twitter
       text: Twitter
       href: https://twitter.com/Rilquer
     - icon: google-scholar
       text: Google Scholar
-      href: https://scholar.google.com/citations?user=_c6zjjoAAAAJ&hl=en&oi=ao
+      href: https://g.co/kgs/hjddxVE
 comments: false
 toc: false
 ---
