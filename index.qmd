@@ -1,6 +1,6 @@
 ---
 title: "Rilquer Mascarenhas"
-title-block-banner: files/cover_image.jpg
+title-block-banner: true
 title-block-banner-color: black
 subtitle: PhD - The City University of New York
 format:
