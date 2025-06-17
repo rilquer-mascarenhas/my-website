@@ -32,8 +32,8 @@ toc: false
 
 ## Hello
 
-My name is Rilquer Mascarenhas and I am a recent PhD graduate from the [Carnaval Lab](https://www.carnavallab.org) of The City College of New York.
+My name is Rilquer Mascarenhas and I am an evolutionary biologist interested in the processes driving the spatial distribution of biodiversity. I recently finished my PhD research in the [Carnaval Lab](https://www.carnavallab.org), where I explored the importance of species ecological differences in predicting population response to habitat change.
 
-As a evolutionary biologist, I am interested in the processes driving the spatial distribution of biodiversity. I am specially interested in integrating different data sources and methodological approaches to investigate the drivers of spatial patterns of intraspecific genetic diversity.
+As an evolutionary biology, I am specially interested in integrating different data sources and methodological approaches to investigate the drivers of spatial patterns of intraspecific genetic diversity. In the past, I have leveraged machine learning algorithms, individual-based genetic simulations and publicly available ecological datasets to explore the relative influence of different drivers across varying temporal and spatial scales. My current research goals involve extending this approach to investigate how species interactions at the community level shape large-scale patterns of intraspecific genetic diversity.
 
-My PhD research focused on exploring the importance of species ecological differences in population response to habitat change. My main goal was to understand how species traits influence their interaction with the surrounding environment and shape the demographic history revealed in their DNA sequences. For that, I leveraged machine learning algorithms, individual-based genetic simulations and publicly available ecological datasets for birds of the Neotropics.
+I am additionally interested in [pattern-based](https://doi.org/10.1111/ecog.07149) and [mechanistic models](10.22541/au.173814305.53825759/v1) e.g.for conservation biology and cross-scales investigations to inform decision-making. I am committed to open-science and reproducibility by making public and accessible all and any developed code, along with step-by-step tutorials when applicable.
